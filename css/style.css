@@ -1,0 +1,224 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    line-height: 2;
+    font-family: 'Raleway', sans-serif;
+}
+.page-header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    background: black;
+    
+}
+.photo-logo{
+    
+}
+.my-logo{
+    height: 100px;
+    
+}
+.content{
+    width: 100%;
+    background: #737373;
+    display: flex;  
+}
+.info{
+    background: white;
+    color: black;
+    width: 30%;
+    box-sizing: border-box;
+    
+}
+.works{
+    display: flex;
+    background: white;
+    width: 70%;
+    flex-wrap: wrap;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(https://img3.goodfon.ru/wallpaper/big/5/e2/linii-polosy-cherno-belyy-fon.jpg);
+    justify-content: center;
+    
+}
+.works-2{
+    display: flex;
+    justify-content: space-around;
+}
+.work{
+   margin: 100px 60px;
+    width: 400px;
+    
+/*    background: white;*/
+}
+.people{
+    
+    color: white;
+    text-align: center;
+    
+}
+.examples{
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+    padding-top: 10px;   
+}
+.examples:hover{
+    color: white;
+    background: black;
+}
+.menu{
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+.start{
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.menu-2{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    
+}
+.number{
+    border-bottom: 2px solid darkred;
+    color: darkred;
+}
+.nom:hover{
+    box-sizing: border-box;
+    background: black;
+    color: white;
+    transition: 0.5s;
+    border-bottom: 2px solid darkred;
+}
+.nom{
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    
+    
+}
+p{
+    margin: 0;padding: 0;
+}
+li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.vk-share{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+.social{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+.word{
+    text-align: center;
+}
+.vk{
+    width: 30px;
+    height: 30px;
+}
+.share{
+    width: 30px;
+    height: 30px;
+    
+}
+.share-us{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 10px;
+    width: 100%;;
+    border-bottom: 2px solid black;
+}
+.she{
+    text-align: center;
+}
+.icons{
+   padding: 20px; 
+}
+.icons:hover{
+    border-radius: 50px;
+    background: black;
+    transition: 1.5s;
+    
+    
+}
+.example-1{
+    
+}
+.example-work{
+    width: 100%;
+    height: 200px;
+    background: darkred;
+    box-sizing: border-box;
+    margin: 100px 0px;
+}
+.page-footer{
+    width: 100%;
+    height: 100px;
+    background: black;
+    display: flex;
+    padding-top: 20px;
+    align-content: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.scroll1{
+   border: 2px solid white;
+    border-radius: 40px;
+    display: block;
+    width: 80px;
+    
+    text-align: center;
+    padding: 20px;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
